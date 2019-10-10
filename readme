@@ -1,0 +1,18 @@
+
+- "Login1.php" is the main Login Page.
+	- username / password - admin1 / testing
+
+- The next page after login is the "welcome.php" with the different departments. The only working one is "reconciliation".
+
+
+- "create_recon_off.php" is the first entry for the user which executes "view_recon_off.php" in the form. 
+
+- You can manually input in the URL "create_recon_off_authorize.php" to see the next page view for the Supervisor's view of the entered data for edit.
+
+- I am including the .sql files so you can import it to use.
+	I have included 2 .sql files. One is called "rec_off.sql" and the other one you told me to create is called "BSC.sql".
+
+
+
+
+Let me know if you need anything else or have any questions.
